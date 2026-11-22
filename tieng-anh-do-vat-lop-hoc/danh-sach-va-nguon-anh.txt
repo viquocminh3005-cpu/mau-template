@@ -1,56 +1,224 @@
 TIẾNG ANH CÙNG MINH — ĐỒ VẬT TRONG LỚP HỌC
-7 tập, mỗi tập 3 đồ vật, 30 giây, 720 × 1280.
-Giọng Adam (ElevenLabs). Hiệu ứng chỉ tay lấy từ clip tham chiếu người dùng gửi.
-Nguồn ảnh Wikimedia Commons. Giấy phép từng ảnh chưa được xác minh trong phiên này.
+15 tập · 45 đồ vật · 3 câu mỗi tập · 30 giây · MP4 dọc 9:16.
+Giọng Adam (ElevenLabs) đọc câu hỏi, đáp án tiếng Anh và nghĩa tiếng Việt.
+Chuyển động chỉ tay lấy từ clip mẫu do người dùng cung cấp.
+Ảnh lấy từ Wikimedia Commons. Một số ảnh được cắt khung, chỉnh sáng hoặc thu nhỏ.
+Ghi công và giấy phép từng ảnh được liệt kê dưới đây.
 
-Tập 01 — ĐỒ DÙNG VIẾT
+TẬP 01 — ĐỒ DÙNG VIẾT
 lop-hoc-01-do-dung-viet.mp4
-  pencils — bút chì — https://commons.wikimedia.org/wiki/File:Pencil.jpg
-  fountain pen — bút máy — https://commons.wikimedia.org/wiki/File:Pen.jpg
-  notebooks — vở ghi — https://commons.wikimedia.org/wiki/File:Notebooks.jpg
+  pencils — bút chì
+    Ảnh: File:Pencil.jpg | Tác giả: per from Norway | Giấy phép: CC BY 2.0
+    https://commons.wikimedia.org/wiki/File:Pencil.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/2.0/
+  fountain pen — bút máy
+    Ảnh: File:Pen.jpg | Tác giả: xem nguồn | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:Pen.jpg
+  notebooks — vở ghi
+    Ảnh: File:Notebooks.jpg | Tác giả: L.Marie | Giấy phép: CC BY 2.0
+    https://commons.wikimedia.org/wiki/File:Notebooks.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/2.0/
 
-Tập 02 — DỤNG CỤ THỦ CÔNG
+TẬP 02 — DỤNG CỤ THỦ CÔNG
 lop-hoc-02-dung-cu-thu-cong.mp4
-  pencil sharpener — gọt bút chì — https://commons.wikimedia.org/wiki/File:Sharpener.jpg
-  colored pencils — bút chì màu — https://commons.wikimedia.org/wiki/File:Colored_pencils.jpg
-  scissors — kéo — https://commons.wikimedia.org/wiki/File:Scissors.jpg
+  pencil sharpener — gọt bút chì
+    Ảnh: File:Sharpener.jpg | Tác giả: User Raul654 on en.wikipedia | Giấy phép: Public domain / PDM
+    https://commons.wikimedia.org/wiki/File:Sharpener.jpg
+    Giấy phép: https://creativecommons.org/publicdomain/mark/1.0/
+  colored pencils — bút chì màu
+    Ảnh: File:Colored_pencils.jpg | Tác giả: Kristine from St. Augustine, USA | Giấy phép: CC BY 2.0
+    https://commons.wikimedia.org/wiki/File:Colored_pencils.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/2.0/
+  scissors — kéo
+    Ảnh: File:Scissors.jpg | Tác giả: xem nguồn | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Scissors.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
 
-Tập 03 — BẢNG VÀ PHẤN
+TẬP 03 — BẢNG VÀ PHẤN
 lop-hoc-03-bang-va-phan.mp4
-  chalk — phấn viết — https://commons.wikimedia.org/wiki/File:Sidewalk_chalk.jpg
-  chalkboard — bảng viết phấn — https://commons.wikimedia.org/wiki/File:Chalkboard.jpg
-  whiteboard — bảng trắng — https://commons.wikimedia.org/wiki/File:Whiteboard.jpg
+  chalk — phấn viết
+    Ảnh: File:Sidewalk_chalk.jpg | Tác giả: Nakaner | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Sidewalk_chalk.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+  chalkboard — bảng viết phấn
+    Ảnh: File:Chalkboard.jpg | Tác giả: xem nguồn | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Chalkboard.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  whiteboard — bảng trắng
+    Ảnh: File:Whiteboard.jpg | Tác giả: asteinme | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:Whiteboard.jpg
 
-Tập 04 — NỘI THẤT LỚP HỌC
+TẬP 04 — NỘI THẤT LỚP HỌC
 lop-hoc-04-noi-that-lop-hoc.mp4
-  desk — bàn học — https://commons.wikimedia.org/wiki/File:Writing_desk.jpg
-  chair — ghế — https://commons.wikimedia.org/wiki/File:Chair.png
-  bookshelves — giá sách — https://commons.wikimedia.org/wiki/File:Bookshelves.jpg
+  desk — bàn học
+    Ảnh: File:Writing_desk.jpg | Tác giả: Dvortygirl | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Writing_desk.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  chair — ghế
+    Ảnh: File:Chair.png | Tác giả: User:Ellywa (original photo) | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Chair.png
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  bookshelves — giá sách
+    Ảnh: File:Bookshelves.jpg | Tác giả: w:it:Utente:OrbiliusMagister | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:Bookshelves.jpg
 
-Tập 05 — GÓC LỚP HỌC
+TẬP 05 — GÓC LỚP HỌC
 lop-hoc-05-goc-lop-hoc.mp4
-  wall clock — đồng hồ treo tường — https://commons.wikimedia.org/wiki/File:Wall_clock.jpg
-  window — cửa sổ — https://commons.wikimedia.org/wiki/File:Window.jpg
-  desk lamp — đèn bàn — https://commons.wikimedia.org/wiki/File:Desk_lamp.jpg
+  wall clock — đồng hồ treo tường
+    Ảnh: File:Wall_clock.jpg | Tác giả: xem nguồn | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Wall_clock.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  window — cửa sổ
+    Ảnh: File:Window.jpg | Tác giả: xem nguồn | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:Window.jpg
+  desk lamp — đèn bàn
+    Ảnh: File:Desk_lamp.jpg | Tác giả: hunterdt | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Desk_lamp.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
 
-Tập 06 — THIẾT BỊ MÁY TÍNH
+TẬP 06 — THIẾT BỊ MÁY TÍNH
 lop-hoc-06-thiet-bi-may-tinh.mp4
-  computer monitor — màn hình máy tính — https://commons.wikimedia.org/wiki/File:Computer_monitor.jpg
-  keyboard — bàn phím — https://commons.wikimedia.org/wiki/File:Computer_keyboard.png
-  USB flash drive — ổ USB — https://commons.wikimedia.org/wiki/File:USB_flash_drive.jpg
+  computer monitor — màn hình máy tính
+    Ảnh: File:Computer_monitor.jpg | Tác giả: Zzubnik | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:Computer_monitor.jpg
+  keyboard — bàn phím
+    Ảnh: File:Computer_keyboard.png | Tác giả: User Gflores on en.wikipedia | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:Computer_keyboard.png
+  USB flash drive — ổ USB
+    Ảnh: File:USB_flash_drive.jpg | Tác giả: Dori | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:USB_flash_drive.jpg
 
-Tập 07 — SÁCH VÀ DỤNG CỤ
+TẬP 07 — SÁCH VÀ DỤNG CỤ
 lop-hoc-07-sach-va-dung-cu.mp4
-  book — quyển sách — https://commons.wikimedia.org/wiki/File:Open_book.jpg
-  drawing compasses — com-pa vẽ hình — https://commons.wikimedia.org/wiki/File:Compass.jpg
-  tape dispenser — dụng cụ cắt băng keo — https://commons.wikimedia.org/wiki/File:Cellophane_tape.jpg
+  book — quyển sách
+    Ảnh: File:Open_book.jpg | Tác giả: Gausanchennai | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Open_book.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+  drawing compasses — com-pa vẽ hình
+    Ảnh: File:Compass.jpg | Tác giả: User Hkpawn on zh.wikipedia | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Compass.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  tape dispenser — dụng cụ cắt băng keo
+    Ảnh: File:Cellophane_tape.jpg | Tác giả: xem nguồn | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Cellophane_tape.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
 
-CÁC TẬP BỔ SUNG — CHƯA XUẤT VIDEO
-08 — eraser (tẩy), ruler (thước kẻ), pencil case (hộp bút)
-09 — backpack (ba lô), textbook (sách giáo khoa), worksheet (phiếu bài tập)
-10 — stapler (dập ghim), paper clip (kẹp giấy), glue stick (keo thỏi)
-11 — marker (bút lông), board eraser (dụng cụ lau bảng), highlighter (bút dạ quang)
-12 — calculator (máy tính cầm tay), protractor (thước đo góc), set square (ê ke)
-13 — projector (máy chiếu), globe (quả địa cầu), notice board (bảng thông báo)
-14 — computer mouse (chuột máy tính), speaker (loa), trash can (thùng rác)
-15 — door (cửa ra vào), calendar (lịch), light switch (công tắc đèn)
+TẬP 08 — VĂN PHÒNG PHẨM
+lop-hoc-08-van-phong-pham.mp4
+  eraser — cục tẩy
+    Ảnh: File:Eraser shreddings.jpg | Tác giả: Pixabay | Giấy phép: CC0
+    https://commons.wikimedia.org/wiki/File:Eraser_shreddings.jpg
+    Giấy phép: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  ruler — thước kẻ
+    Ảnh: File:Vinkel byggfag.jpg | Tác giả: <a href="//commons.wikimedia.org/wiki/User:QUB1" title="User:QUB1">QUB1</a> | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Vinkel_byggfag.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  pencil case — hộp bút
+    Ảnh: File:School pencil cases.jpg | Tác giả: <a href="//commons.wikimedia.org/wiki/User:ABX" title="User:ABX">ABX</a> | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:School_pencil_cases.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+
+TẬP 09 — ĐỒ DÙNG MANG ĐẾN LỚP
+lop-hoc-09-do-dung-mang-den-lop.mp4
+  backpack — ba lô
+    Ảnh: File:Plecak_Hiker_50_L_HiMountain.jpg | Tác giả: WrS.tm.pl | Giấy phép: CC0
+    https://commons.wikimedia.org/wiki/File:Plecak_Hiker_50_L_HiMountain.jpg
+    Giấy phép: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  textbook — sách giáo khoa
+    Ảnh: File:Japanese textbooks.jpg | Tác giả: <a href="//commons.wikimedia.org/wiki/User:Asahiko" class="mw-redirect" title="User:Asahiko">User:Asahiko</a> | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Japanese_textbooks.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  worksheet — phiếu bài tập
+    Ảnh: File:Worksheet_-_External_parts_of_the_flower.jpg | Tác giả: Avion Thomas | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Worksheet_-_External_parts_of_the_flower.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+
+TẬP 10 — DÁN VÀ KẸP GIẤY
+lop-hoc-10-dan-va-kep-giay.mp4
+  stapler — dập ghim
+    Ảnh: File:Staplers_in_Israel,_May_2024_05.jpg | Tác giả: Chenspec | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Staplers_in_Israel%2C_May_2024_05.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+  paper clip — kẹp giấy
+    Ảnh: File:Clip_de_oficina.jpg | Tác giả: Jose Jr romero 2004 | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Clip_de_oficina.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+  glue stick — keo thỏi
+    Ảnh: File:Elmer's_Office_Glue_Stick.JPG | Tác giả: Mk2010 | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Elmer%27s_Office_Glue_Stick.JPG
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+
+TẬP 11 — BÚT VÀ LAU BẢNG
+lop-hoc-11-but-va-lau-bang.mp4
+  marker — bút lông
+    Ảnh: File:Writing_on_the_whiteboard.jpg | Tác giả: Santeri Viinamäki | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Writing_on_the_whiteboard.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+  board eraser — dụng cụ lau bảng
+    Ảnh: File:Chalkboard_eraser,_Waldorf_School,_East_Lexington_MA.jpg | Tác giả: John Phelan | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Chalkboard_eraser%2C_Waldorf_School%2C_East_Lexington_MA.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  highlighter — bút dạ quang
+    Ảnh: File:A_yellow_highlighter_marker..jpg | Tác giả: Sokolikmawwer0 | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:A_yellow_highlighter_marker..jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+
+TẬP 12 — DỤNG CỤ TOÁN HỌC
+lop-hoc-12-dung-cu-toan-hoc.mp4
+  calculator — máy tính cầm tay
+    Ảnh: File:Sharp_Scientific_Calculator.jpg | Tác giả: Matti Blume | Giấy phép: CC BY-SA 2.0
+    https://commons.wikimedia.org/wiki/File:Sharp_Scientific_Calculator.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/2.0/
+  protractor — thước đo góc
+    Ảnh: File:Protractor_katomierz.jpg | Tác giả: Radomil | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Protractor_katomierz.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+  set square — thước ê ke
+    Ảnh: File:Squadra_30_60.jpg | Tác giả: Luigi Chiesa | Giấy phép: CC BY 3.0
+    https://commons.wikimedia.org/wiki/File:Squadra_30_60.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/3.0/
+
+TẬP 13 — THIẾT BỊ VÀ TRANG TRÍ
+lop-hoc-13-thiet-bi-va-trang-tri.mp4
+  projector — máy chiếu
+    Ảnh: File:InFocus_IN34.jpg | Tác giả: Dave Pape | Giấy phép: Public domain
+    https://commons.wikimedia.org/wiki/File:InFocus_IN34.jpg
+  globe — quả địa cầu
+    Ảnh: File:2022_Russian_invasion_of_Ukraine_mapamundi.jpg | Tác giả: МВС України | Giấy phép: CC BY 4.0
+    https://commons.wikimedia.org/wiki/File:2022_Russian_invasion_of_Ukraine_mapamundi.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/4.0/
+  notice board — bảng thông báo
+    Ảnh: File:Infinite-corridor-bboard.jpeg | Tác giả: Joseph Barillari | Giấy phép: CC BY-SA 3.0
+    https://commons.wikimedia.org/wiki/File:Infinite-corridor-bboard.jpeg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/3.0/
+
+TẬP 14 — GÓC THIẾT BỊ
+lop-hoc-14-goc-thiet-bi.mp4
+  computer mouse — chuột máy tính
+    Ảnh: File:ComputerMouseCloseup3.jpg | Tác giả: Raysonho @ Open Grid Scheduler / Grid Engine | Giấy phép: CC0
+    https://commons.wikimedia.org/wiki/File:ComputerMouseCloseup3.jpg
+    Giấy phép: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  speaker — loa
+    Ảnh: File:Bose_Computer_MusicMonitor.jpg | Tác giả: Ben Stassen's | Giấy phép: CC BY 2.0
+    https://commons.wikimedia.org/wiki/File:Bose_Computer_MusicMonitor.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/2.0/
+  trash can — thùng rác
+    Ảnh: File:"Titanic"_butt_and_litter_bin,_Belfast_-_geograph.org.uk_-_2500862.jpg | Tác giả: Albert Bridge | Giấy phép: CC BY-SA 2.0
+    https://commons.wikimedia.org/wiki/File:%22Titanic%22_butt_and_litter_bin%2C_Belfast_-_geograph.org.uk_-_2500862.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/2.0/
+
+TẬP 15 — CỬA, LỊCH VÀ CÔNG TẮC
+lop-hoc-15-cua-lich-cong-tac.mp4
+  door — cửa ra vào
+    Ảnh: File:Door_5.jpg | Tác giả: Vetri Vignesh | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:Door_5.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+  calendar — lịch
+    Ảnh: File:Calendar_(close-up,_shallow_depth_of_field).jpg | Tác giả: Dafne Cholet | Giấy phép: CC BY 2.0
+    https://commons.wikimedia.org/wiki/File:Calendar_%28close-up%2C_shallow_depth_of_field%29.jpg
+    Giấy phép: https://creativecommons.org/licenses/by/2.0/
+  light switch — công tắc đèn
+    Ảnh: File:White_light_switch.jpg | Tác giả: Santeri Viinamäki | Giấy phép: CC BY-SA 4.0
+    https://commons.wikimedia.org/wiki/File:White_light_switch.jpg
+    Giấy phép: https://creativecommons.org/licenses/by-sa/4.0/
+
